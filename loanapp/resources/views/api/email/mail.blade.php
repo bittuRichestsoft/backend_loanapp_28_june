@@ -1,0 +1,1 @@
+<a href="{{url('api/resetpassword?key='.$recovery)}}">click here </a>
